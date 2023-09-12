@@ -22,7 +22,4 @@
   <a href="https://github.com/bernardorneves">
   <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardorneves&layout=compact&langs_count=7&theme=tokyonight"/></a>
   <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=bernardorneves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-  ![Snake animation](https://github.com/bernardorneves/bernardorneves/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
